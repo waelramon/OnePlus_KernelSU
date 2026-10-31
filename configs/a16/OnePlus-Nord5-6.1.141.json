@@ -2,7 +2,7 @@
   "model": "OP-NORD-5-6.1.141",
   "soc": "cliffs",
   "branch": "wild/sm8635",
-  "manifest": "oneplus_nord_5_w.xml",
+  "manifest": "oneplus_nord_5_6.1.141_w.xml",
   "android_version": "android14",
   "kernel_version": "6.1",
   "os_version": "A16",
